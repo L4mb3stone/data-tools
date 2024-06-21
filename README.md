@@ -17,7 +17,7 @@
 
 ```bash
 # GitHub
-git pull https://github.com/FengNu/data-tools.git
+git pull https://github.com/L4mb3stone/data-tools.git
 ```
 
 - **运行项目**

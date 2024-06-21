@@ -9,7 +9,7 @@
 
 ## 代码仓库 🌟
 
-- GitHub：https://github.com/FengNu/data-tools
+- GitHub：https://github.com/L4mb3stone/data-tools
 
 ## 快速开始 🚀
 
@@ -25,11 +25,13 @@ git pull https://github.com/FengNu/data-tools.git
 
 ```bash
 cd 拉取项目目录
-npm install	    # 安装依赖
-npm run dev    # 运行vue程序
-npm run start	# 运行electron桌面程序
+npm install	     # 安装依赖
+npm run dev      # 运行vue程序
+npm run start	 # 运行electron桌面程序
 ```
 
 ## 未来 🔮
 
+实现价值分析页面
 ## 贡献 🤝
+
